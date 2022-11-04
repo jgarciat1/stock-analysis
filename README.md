@@ -1,4 +1,4 @@
-# Analysis of stocks: Helping Steve analyze the stock market
+# Analysis of Stocks: Helping Steve Analyze The Stock Market
 ## Overview of Project
 ### Explain the purpose of this analysis
 
