@@ -8,11 +8,11 @@
 
 - At the end of the analysis, the refactored version did indeed run faster, by about .0078125 seconds. Attached are screenshots of the time difference. The refactored version was also shorter and to the point. 
 
-![Screenshot of time it took original code to run analysis]
-(https://github.com/jgarciat1/stock-analysis/blob/main/Resources/SCREESHOT%20OF%20ORIGINAL%20CODE.png)
+Here is the original code
+![VBA Challenge 2018](https://github.com/jgarciat1/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
-![Screenshot of time it took for refactored code to run analysis] 
-(https://github.com/jgarciat1/stock-analysis/blob/main/Resources/REFACTORED%20CODE%20SCREENSHOT.png)
+Here is the refactored version
+![Refactored VBA Challenge 2018](https://github.com/jgarciat1/stock-analysis/blob/main/Refactored_VBA_Challenge_2018.png)
 
 ## Summary
 ### In a summary statement, address the following questions.
