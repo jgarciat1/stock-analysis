@@ -5,8 +5,9 @@
 ## Results: Using images and examples of your code, compare the stock performance between 2018 and 2018, as well as the execution times of the original script and the refactored script.
 
 - At the end of the analysis, the refactored version did indeed run faster, by about .0078125 seconds. Attached are screenshots of the time difference. The refactored version was also shorter and to the point. 
-![Screenshot of time it took for original code to run analysis] (
-![Screenshot of time it took for refactored code to run analysis] (https://github.com/jgarciat1/stock-analysis/blob/main/Resources/REFACTORED%20CODE%20SCREENSHOT.png)
+
+![Screenshot of time it took for original code to run analysis] 
+(https://github.com/jgarciat1/stock-analysis/blob/main/Resources/REFACTORED%20CODE%20SCREENSHOT.png)
 
 ## Summary: In a summary statement, address the following questions.
 
